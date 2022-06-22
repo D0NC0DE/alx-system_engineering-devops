@@ -3,3 +3,4 @@ Script that prints absolute pathname of the current working directory
 2-bring_me_home - changes to the home directory
 3-listfiles Display current directory contents in a long format
 4-listmorefiles - Display current directory contents, including hidden files (starting with .). Use the long format.
+5-listfilesdigitonly - Displays directory content in; Long format, user and group IDs numerically, and hidden files
