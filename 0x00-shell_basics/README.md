@@ -6,3 +6,4 @@ Script that prints absolute pathname of the current working directory
 5-listfilesdigitonly - Displays directory content in; Long format, user and group IDs numerically, and hidden files
 6-firstdirectory - Create a script that creates a directory named my_first_directory in the /tmp/ directory
 7-movethatfile - moves file from one directory to another
+8-firstdelete - delete files
