@@ -8,3 +8,4 @@ Script that prints absolute pathname of the current working directory
 7-movethatfile - moves file from one directory to another
 8-firstdelete - delete files
 9-firstdirdeletion - deletes directory
+10-back - a script that changes the working directory to the previous one
