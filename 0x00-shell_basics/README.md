@@ -13,3 +13,4 @@ Script that prints absolute pathname of the current working directory
 12-file_type - prints file type
 13-symbolic_link - creates symbolic link
 14-copy_html - updates file when copying
+100-lets_move - move all file that starts with capital letter
