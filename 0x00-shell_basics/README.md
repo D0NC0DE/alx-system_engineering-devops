@@ -10,3 +10,4 @@ Script that prints absolute pathname of the current working directory
 9-firstdirdeletion - deletes directory
 10-back - a script that changes the working directory to the previous one
 11-lists - lists content in different directory all at a time
+12-file_type - prints file type
