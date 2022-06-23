@@ -12,3 +12,4 @@ Script that prints absolute pathname of the current working directory
 11-lists - lists content in different directory all at a time
 12-file_type - prints file type
 13-symbolic_link - creates symbolic link
+14-copy_html - updates file when copying
