@@ -14,3 +14,4 @@ Script that prints absolute pathname of the current working directory
 13-symbolic_link - creates symbolic link
 14-copy_html - updates file when copying
 100-lets_move - move all file that starts with capital letter
+101-clean_emacs - removes file that ends with ~
